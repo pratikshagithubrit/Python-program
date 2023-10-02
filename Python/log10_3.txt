@@ -1,0 +1,2 @@
+INFO:root:give proper input,eg(directoryname,new directory name)
+("Demo","Temp")

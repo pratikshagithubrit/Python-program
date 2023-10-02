@@ -1,0 +1,3 @@
+INFO:root:give proper input eg(directory name,new directory name,file extension for filter(.doc,.txt))
+INFO:root:give proper input eg(directory name,new directory name,file extension for filter(.doc,.txt))
+INFO:root:give proper input eg(directory name,new directory name,file extension for filter(.doc,.txt))
