@@ -1,0 +1,6 @@
+WARNING:root:name 'ProceeDisplay' is not defined
+WARNING:root:name 'dirnames' is not defined
+WARNING:root:name 'dirnames' is not defined
+WARNING:root:name 'dirnames' is not defined
+WARNING:root:name 'dirnames' is not defined
+INFO:root:Give proper input,like process name eg-notepad.exe
